@@ -4,7 +4,7 @@
 # 
 # ----------------------------------------------------
 # Version & Date created: v0.1; 18/04/2020
-# Author: Sarthak S
+# Author: Sashank
 # Comments: To perform Merchant Affinity Analysis (Merchant Basket Analysis)
 # 
 # ----------------------------------------------------
